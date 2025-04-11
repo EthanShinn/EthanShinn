@@ -1,4 +1,4 @@
-##👋 Hi, I'm Shinn Wai Yan Bo
+## 👋 Hi, I'm Shinn Wai Yan Bo
 
 Microsoft Certified Trainer | Power Platform Specialist | Data Analytics Enthusiast
 
