@@ -1,12 +1,12 @@
-## 👋 Hi, I'm Shinn Wai Yan Bo
+# 👋 Hi, I'm Shinn Wai Yan Bo
 
 Microsoft Certified Trainer | Power Platform Specialist | Data Analytics Enthusiast
 
-###🧑‍💼 About Me
+### 🧑‍💼 About Me
 
 I’m an experienced Power Platform Developer currently based in Singapore, specializing in designing and implementing business automation solutions using Microsoft Power Apps, Power Automate, Power BI, and Azure Data Analytics. I have extensive experience managing IT infrastructure and ensuring compliance with ISO 27001 standards. Passionate about empowering businesses through digital transformation and automation.
 
-###🏆 Certifications
+### 🏆 Certifications
 
 🎓 Microsoft Certified Trainer (MCT)
 
@@ -16,7 +16,7 @@ I’m an experienced Power Platform Developer currently based in Singapore, spec
 
 ⚙️ Microsoft Certified: Power Platform Functional Consultant Associate
 
-###🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 Microsoft Power Platform: Power Apps (Canvas & Model-Driven), Power Automate, Power BI, Dataverse
 
@@ -28,9 +28,9 @@ Collaboration & Compliance: SharePoint, Microsoft Teams, ISO 27001 Compliance
 
 IT Administration: Infrastructure management, policy implementation
 
-###💼 Work Experience
+### 💼 Work Experience
 
-#####Senior Microsoft Power Platform Engineer
+##### Senior Microsoft Power Platform Engineer
 
 **REDEX, Singapore (Current)**
 
@@ -40,7 +40,7 @@ Developed dashboards and automated workflows to enhance operational efficiency
 
 Managed and maintained ISO 27001 compliance documentation and audit procedures
 
-#####Microsoft 365 Consultant
+##### Microsoft 365 Consultant
 
 **YTL Powerseraya (Previous)**
 
@@ -50,7 +50,7 @@ Developed interactive reports and dashboards with Power BI
 
 Coordinated cross-functional teams for efficient project delivery
 
-#####Office Automation Team Leader
+##### Office Automation Team Leader
 
 **Hana Microfinance (Previous)**
 Automated workflows and business processes using Microsoft Power Platform, SharePoint, and Microsoft 365.
@@ -65,7 +65,7 @@ Optimized processes through digitization, VBA macro solutions, and scalable auto
 
 Maintained compliance with governance and security policies while enhancing operational efficiency.
 
-###📞 Let's Connect
+### 📞 Let's Connect
 
 🌐 [LinkedIn](https://www.linkedin.com/in/shinn-wai-yan-bo-899711b7/)
 
