@@ -1,12 +1,12 @@
-**👋 Hi, I'm Shinn Wai Yan Bo**
+******👋 Hi, I'm Shinn Wai Yan Bo******
 
 Microsoft Certified Trainer | Power Platform Specialist | Data Analytics Enthusiast
 
-**🧑‍💼 About Me**
+****🧑‍💼 About Me****
 
 I’m an experienced Power Platform Developer currently based in Singapore, specializing in designing and implementing business automation solutions using Microsoft Power Apps, Power Automate, Power BI, and Azure Data Analytics. I have extensive experience managing IT infrastructure and ensuring compliance with ISO 27001 standards. Passionate about empowering businesses through digital transformation and automation.
 
-**🏆 Certifications**
+****🏆 Certifications****
 
 🎓 Microsoft Certified Trainer (MCT)
 
@@ -16,7 +16,7 @@ I’m an experienced Power Platform Developer currently based in Singapore, spec
 
 ⚙️ Microsoft Certified: Power Platform Developer Associate
 
-**🛠️ Technical Skills**
+****🛠️ Technical Skills****
 
 Microsoft Power Platform: Power Apps (Canvas & Model-Driven), Power Automate, Power BI, AI Builder, Dataverse
 
@@ -28,7 +28,7 @@ Collaboration & Compliance: SharePoint, Microsoft Teams, ISO 27001 Compliance
 
 IT Administration: Infrastructure management, policy implementation
 
-**💼 Work Experience**
+****💼 Work Experience****
 
 Senior Microsoft Power Platform Engineer
 
